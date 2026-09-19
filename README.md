@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a browser extension that increases user productivity by blocking distracting websites.<br>🌱 I’m currently learning C, Python, and JavaScript as a sophomore at Grove City College.<br>⚡ Fun fact: I'm a big fan of Nintendo and indie video games! This has inspired me to make a few of my own.
+🔭 I’m currently working on a browser extension that increases user productivity by blocking distracting websites.<br>🌱 I’m currently learning Java, Python, and JavaScript as a senior at Grove City College.<br>⚡ Fun fact: I'm a big fan of Nintendo and indie video games! This has inspired me to make a few of my own.
 
 
 ## 🌐 Socials:
